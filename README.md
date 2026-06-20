@@ -71,6 +71,6 @@ Kolekcija mini igara inspirisana animiranom serijom.
 - Član reprezentacije Srbije u karateu
 - Vicešampionka države
 - Preko 150 osvojenih medalja
-- 5. mesto na svetskom prvenstvu
-- 1. mesto na državnom takmičenju iz 2D/3D grafike
-- 6. mesto na međunarodnom takmičenju
+- 5 mesto na svetskom prvenstvu
+- 1 mesto na državnom takmičenju iz 2D/3D grafike
+- 6 mesto na međunarodnom takmičenju
