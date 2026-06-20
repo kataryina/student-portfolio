@@ -12,9 +12,11 @@ Implementacija simulacije sabiranja i oduzimanja korišćenjem principa Tjuringo
 - Povezane liste
 - Rad sa fajlovima
 
-![Turing](images/Screenshot 2026-03-24 001802.png)
-![Turing](images/Screenshot 2026-03-24 002043.png)
-![Turing](images/Screenshot 2026-03-24 002110.png)
+![Turing](images/turingP.png)
+![Turing](images/turingPR.png)
+![Turing](images/turingS.png)
+![Turing](images/turingS1.png)
+![Turing](images/turingS2.png)
 
 ---
 
@@ -26,7 +28,11 @@ Aplikacija za organizaciju pripreme ispita sa Pomodoro tajmerom.
 - WPF app
 - SQL Server
 
-![App](images/app1.png)
+![App](images/PRP.png)
+![App](images/PRPP.png)
+![App](images/PRB.png)
+![App](images/PRDP.png)
+![App](images/PRT.png)
 
 ---
 
@@ -38,7 +44,10 @@ Veb aplikacija za pregled i organizaciju knjižarskog kataloga.
 - HTML
 - CSS
 
-![Bookstore](images/bookstore1.png)
+![Bookstore](images/K1.png)
+![Bookstore](images/K2.png)
+![Bookstore](images/K3.png)
+![Bookstore](images/K4.png)
 
 ---
 
@@ -50,7 +59,12 @@ Kolekcija mini igara inspirisana animiranom serijom.
 - Java
 - WindowBuilder
 
-![Game](images/game1.png)
+![Game](images/tadcP.png)
+![Game](images/tadcI.png)
+![Game](images/tadcL.png)
+![Game](images/tadcK.png)
+![Game](images/tadcD.png)
+![Game](images/tadcM.png)
 
 ## Dostignuća
 
